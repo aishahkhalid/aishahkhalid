@@ -13,7 +13,7 @@ Hi! I'm a Computer Science Lecturer at PERMATA@Pintar UKM 🇲🇾. I focus on:
 - **Scratch Book (BM + English)** – Visual coding guide for Malaysian students
 
 ## 📬 Contact Me
-- [Google Site](https://your-published-site-link.com)
+<!-- [Google Site](https://your-published-site-link.com)-->
 - [Instagram: @MadamInTech](https://www.instagram.com/madamintech)
 - [LinkedIn](https://www.linkedin.com/in/aishahkhalid99)
 
